@@ -1,0 +1,11 @@
+body{
+    font-family: 'Playfair Display', serif;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.name_highlight{
+    color: rgba(69, 226, 226, 0.89);
+}
