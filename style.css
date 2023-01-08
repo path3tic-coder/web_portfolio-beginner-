@@ -59,3 +59,45 @@ section{
 
 
 }
+
+.exp-hightlight{
+    color: rgba(44, 133, 248, 0.897);
+}
+
+
+
+.single-exp{
+
+    box-shadow: 10px 10px 50px grey;
+    height: 80%;
+    border-radius: 15px;
+    background-color: whitesmoke;
+}
+
+.experience{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+     
+}
+
+.skill-status{
+    color: darkcyan;
+}
+
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+}
+
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,blue, cyan);
+    border-image-slice: 1;
+}
+
+footer p{
+    text-align: center;
+    color: darkolivegreen;
+}
