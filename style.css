@@ -9,3 +9,8 @@ h1{
 .name_highlight{
     color: rgba(69, 226, 226, 0.89);
 }
+
+.half-width{
+    width: 40%;
+    float: left;
+}
